@@ -11,10 +11,14 @@ RoundedHorizontalProgressBar - An Android custom rounded Progress Bar that suppo
 
 # Gradle
 ```java
-dependencies {
+repositories {
+    mavenCentral()
+    maven { url 'https://jitpack.io' }
+}
 
+dependencies {
   	...
-    compile 'com.sasank.roundedhorizontalprogress:roundedhorizontalprogress:1.0.1'
+    implementation 'com.github.AnonymousBoiz:RoundedHorizontalProgressBar:1.0'
     
   }
 ```
