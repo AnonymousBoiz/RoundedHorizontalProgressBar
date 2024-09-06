@@ -1,10 +1,13 @@
 package com.sasank.example.roundedhorizontalprogress;
 
-import android.support.v4.content.res.ResourcesCompat;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.core.content.res.ResourcesCompat;
+
 import com.sasank.roundedhorizontalprogress.RoundedHorizontalProgressBar;
+
+import com.sasank.example.roundedhorizontalprogress.R;
 
 public class MainActivity extends AppCompatActivity {
 

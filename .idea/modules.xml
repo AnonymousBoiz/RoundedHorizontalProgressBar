@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/RoundedHorizontalProgressBar.iml" filepath="$PROJECT_DIR$/RoundedHorizontalProgressBar.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/roundedhorizontalprogress/roundedhorizontalprogress.iml" filepath="$PROJECT_DIR$/roundedhorizontalprogress/roundedhorizontalprogress.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RoundedHorizontalProgressBar.iml" filepath="$PROJECT_DIR$/.idea/modules/RoundedHorizontalProgressBar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RoundedHorizontalProgressBar.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RoundedHorizontalProgressBar.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RoundedHorizontalProgressBar.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RoundedHorizontalProgressBar.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RoundedHorizontalProgressBar.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RoundedHorizontalProgressBar.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RoundedHorizontalProgressBar.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RoundedHorizontalProgressBar.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/roundedhorizontalprogress/RoundedHorizontalProgressBar.roundedhorizontalprogress.iml" filepath="$PROJECT_DIR$/.idea/modules/roundedhorizontalprogress/RoundedHorizontalProgressBar.roundedhorizontalprogress.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/roundedhorizontalprogress/RoundedHorizontalProgressBar.roundedhorizontalprogress.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/roundedhorizontalprogress/RoundedHorizontalProgressBar.roundedhorizontalprogress.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/roundedhorizontalprogress/RoundedHorizontalProgressBar.roundedhorizontalprogress.main.iml" filepath="$PROJECT_DIR$/.idea/modules/roundedhorizontalprogress/RoundedHorizontalProgressBar.roundedhorizontalprogress.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/roundedhorizontalprogress/RoundedHorizontalProgressBar.roundedhorizontalprogress.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/roundedhorizontalprogress/RoundedHorizontalProgressBar.roundedhorizontalprogress.unitTest.iml" />
     </modules>
   </component>
 </project>
